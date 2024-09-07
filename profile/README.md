@@ -1,5 +1,9 @@
-# 🐶 FitPet_A
-대학생 IT경영학회 큐시즘 30th 기업 프로젝트 FitPet_A팀 
+KUSITMS   X   SMART COVER INSUARANCE 산학협력프로젝트
+Team Pit-A-Pet [핏펫 A팀]
+
+**쉽고 빠른 펫보험 견적 비교 서비스, 스마트커버인슈어런스**
+![Frame 1](https://github.com/user-attachments/assets/1f06c382-c2ca-4ac7-abcf-20e617b059d7)
+
 
 <br><br>
 
